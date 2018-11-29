@@ -1,5 +1,3 @@
-package com.tcs.test;
-
 /**
  * Hello world!
  *
